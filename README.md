@@ -119,3 +119,41 @@ Authentication · Multi-Role Systems
 **Tech:** Next.js · NestJS · MongoDB · Docker · JWT · RBAC · Vercel
 **Outcome:** Delivered a deployed multi-role application with
 role-based access control across distinct user workflows.
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineering Intern — Graphura
+
+**May 2026 – August 2026**  
+*Multi-Tenant Restaurant Automation SaaS*
+
+Contributed to a production-oriented restaurant automation platform,
+working across backend services, real-time systems, security and
+multi-tenant data architecture.
+
+#### ⚡ Real-Time Systems
+- Integrated **Customer, Kitchen, Staff and Admin** systems using Socket.IO.
+- Worked with real-time event flows across multiple application modules.
+- Contributed through PR-reviewed development workflows.
+
+#### 🏗️ Backend & Architecture
+- Configured **Docker Compose** for the application's microservices.
+- Designed MongoDB schemas across **8+ modules**, including orders,
+  sessions, tables, billing and inventory.
+- Implemented tenant-level data isolation across restaurant operations.
+
+#### 🔐 Security
+- Implemented **5 backend security controls**:
+  JWT rotation, RBAC middleware, rate limiting, Mongo sanitization
+  and QR-session lifecycle management.
+- Reviewed API validation and distributed service integrations
+  before deployment.
+
+#### 🤖 AI-Assisted Development
+- Used **GitHub Copilot and Claude** to draft API unit tests and
+  investigate Socket.IO issues.
+- Reviewed and validated generated code before merging.
+
+**Tech:** React.js · Node.js · MongoDB · Socket.IO · Docker · JWT · RBAC · Microservices
