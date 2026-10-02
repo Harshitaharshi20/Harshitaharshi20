@@ -157,3 +157,100 @@ multi-tenant data architecture.
 - Reviewed and validated generated code before merging.
 
 **Tech:** React.js · Node.js · MongoDB · Socket.IO · Docker · JWT · RBAC · Microservices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,nestjs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j,prisma" />
+</p>
+
+### DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+---
+
+## ⚙️ Engineering Focus
+
+| Area | Focus |
+|---|---|
+| **Backend Engineering** | REST APIs · Microservices · Async I/O · Event-Driven Architecture |
+| **Security** | JWT · OAuth 2.0 · RBAC · Rate Limiting · Session Management |
+| **Distributed Systems** | Microservices · Real-Time Systems · Concurrent Processing |
+| **AI Engineering** | NLP · Computer Vision · AI-Powered Applications |
+| **Data** | PostgreSQL · MongoDB · Neo4j · Graph Databases |
+| **Software Engineering** | DSA · Concurrency · System Design · Testing |
+
+---
+
+## 🧠 Problem Solving
+
+### LeetCode — 400+ Problems Solved
+
+Consistent problem-solving practice focused on strengthening
+core software engineering fundamentals.
+
+**Focus Areas**
+
+- Data Structures & Algorithms
+- Graph Traversal
+- Algorithmic Problem Solving
+- Software Design Patterns
+
+[View LeetCode Profile](YOUR_LEETCODE_PROFILE_URL)
+
+---
+
+## 🏆 Selected Achievements
+
+### Google Solution Challenge 2026
+
+**Traceory AI — Real-Time Video Piracy Detection**
+
+Submitted a prototype for the Google Solution Challenge 2026,
+focused on digital asset protection through trajectory-based
+dynamic watermarking and video analysis.
+
+**Focus:** Computer Vision · Digital Asset Protection ·
+Video Processing · Event-Driven Architecture
+
+[View Project](https://github.com/Harshitaharshi20/Traceory-AI)
+
+### HackSprint — FactorAI
+
+Built and presented FactorAI, an end-to-end distributed AI system
+combining Java, Python, JavaScript and Neo4j for misinformation
+and coordination analysis.
+
+**Focus:** Distributed Systems · NLP · Graph Databases ·
+Microservices
+
+[View Project](https://github.com/Harshitaharshi20/FactorAi)
