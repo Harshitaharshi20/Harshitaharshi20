@@ -2,255 +2,105 @@
 
 # D. Harshita
 
-### Software Engineer · AI Systems · Full-Stack Development
+**Software Engineer | Backend & Distributed Systems | Applied AI**
 
-Building secure, scalable applications and AI-powered systems across
-backend, distributed and web architectures.
+Building secure, scalable backend systems and AI-powered applications.
 
-<br>
-
-<a href="https://github.com/Harshitaharshi20">
-  <img src="https://img.shields.io/badge/GitHub-Harshitaharshi20-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/d-harshita-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-D%20Harshita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:d.harshita.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Harshitaharshi20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshitaharshi20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D%20Harshita-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/d-harshita-dev)
+[![Email](https://img.shields.io/badge/Email-d.harshita.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.harshita.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a software engineer focused on building secure, scalable applications
-and AI-powered systems.
+Software engineer with hands-on experience building multi-tenant SaaS backends, distributed AI pipelines and secure full-stack applications. My work centers on API design, authentication and access control, real-time systems and asynchronous processing.
 
-- ⚙️ Backend development with Python, Java, Node.js and TypeScript
-- 🤖 AI applications across NLP and computer vision
-- 🔐 Application security, authentication and access control
-- 🌐 Full-stack development with React and Next.js
-- 🐳 Containerized development with Docker and Linux
-- 🧠 Data structures, algorithms, concurrency and system design
+**Core areas:** Backend Engineering · Distributed Systems · Application Security · Applied AI (NLP, Computer Vision) · System Design
 
 ---
 
-## 🚀 Featured Projects
+## Experience
 
-### 🎥 Traceory AI — Real-Time Video Piracy Detection
+### Software Engineering Intern, Graphura
+*May 2026 – Aug 2026 · Multi-Tenant Restaurant Automation SaaS*
 
-Designed a trajectory-based digital asset protection pipeline for
-fingerprinting and tracing unauthorized video copies.
+- Integrated Customer, Kitchen, Staff and Admin modules over **Socket.IO**, building real-time event flows across the platform.
+- Designed **MongoDB schemas across 8+ modules** (orders, sessions, tables, billing, inventory) and implemented **tenant-level data isolation**.
+- Implemented **5 backend security controls**: JWT rotation, RBAC middleware, rate limiting, MongoDB query sanitization and QR-session lifecycle management.
+- Configured **Docker Compose** for the platform's microservices and contributed through PR-reviewed workflows.
+- Used GitHub Copilot and Claude to draft API unit tests and debug Socket.IO issues, reviewing and validating all generated code before merge.
 
-- Engineered frame-level dynamic watermarking to create unique
-  fingerprints for piracy attribution.
-- Developed the video-processing pipeline in Linux for watermark
-  embedding, extraction and signature mapping.
-- Extended the architecture toward asynchronous worker pools and
-  event-driven processing to support concurrent video ingestion.
-- Structured the system around separable processing stages rather
-  than a single synchronous pipeline.
-
-**Engineering Focus:** Computer Vision · Async Processing ·
-Event-Driven Architecture · Linux
-
-**Tech:** Python · Computer Vision · Async Workers
-**Outcome:** Established a modular video-processing pipeline that
-can evolve from synchronous processing toward concurrent,
-event-driven execution.
-
-### 🧠 FactorAI — Misinformation & Coordination Detection
-
-Built a distributed AI pipeline for analyzing content relationships
-and detecting misinformation and coordinated behavior.
-
-- Separated API orchestration from NLP inference using Spring Boot
-  and asynchronous FastAPI services.
-- Modeled content relationships in Neo4j to enable graph-based
-  anomaly analysis rather than relying only on relational joins.
-- Built a React dashboard to expose analysis results through a
-  dedicated application layer.
-- Containerized the multi-service architecture with Docker for
-  reproducible development and deployment.
-
-**Engineering Focus:** Distributed Systems · NLP · Graph Databases ·
-Async APIs · Microservices
-
-**Tech:** Java · Spring Boot · Python · FastAPI · NLP · Neo4j ·
-React · Docker
-**Outcome:** Created a multi-service architecture separating
-API orchestration, asynchronous NLP inference and graph analysis.
-
-### 🔐 TaskVault — Secure Full-Stack Task Manager
-
-Built a secure full-stack task management system centered on
-authentication and API-level data isolation.
-
-- Designed the application with Next.js 14, NestJS, PostgreSQL
-  and Prisma across frontend, API and persistence layers.
-- Implemented dual authentication using JWT and Supabase OAuth.
-- Enforced per-user data isolation at the API layer rather than
-  relying solely on frontend restrictions.
-- Added unit and integration tests to validate application behavior.
-
-**Engineering Focus:** Authentication · Authorization ·
-Data Isolation · API Design · Testing
-
-**Tech:** Next.js · NestJS · PostgreSQL · Prisma · JWT · Supabase
-**Outcome:** Established API-level user isolation with multiple
-authentication paths and automated behavioral validation.
-
-### 🏥 MedConnect — Healthcare Management Platform
-
-Built and deployed a multi-role healthcare platform supporting
-distinct workflows for doctors, patients and administrators.
-
-- Implemented role-specific application access across doctor,
-  patient and admin workflows.
-- Added appointment scheduling and symptom-checker functionality.
-- Implemented JWT authentication with RBAC for controlled access.
-- Deployed the application on Vercel as a full-stack web system.
-
-**Engineering Focus:** Full-Stack Development · RBAC ·
-Authentication · Multi-Role Systems
-
-**Tech:** Next.js · NestJS · MongoDB · Docker · JWT · RBAC · Vercel
-**Outcome:** Delivered a deployed multi-role application with
-role-based access control across distinct user workflows.
+`React` `Node.js` `MongoDB` `Socket.IO` `Docker` `JWT` `RBAC`
 
 ---
 
-## 💼 Professional Experience
+## Projects
 
-### Software Engineering Intern — Graphura
+### [Traceory AI](https://github.com/Harshitaharshi20/Traceory-AI): Video Piracy Detection
+*Google Solution Challenge 2026 submission*
 
-**May 2026 – August 2026**  
-*Multi-Tenant Restaurant Automation SaaS*
+Trajectory-based watermarking pipeline for fingerprinting and tracing unauthorized video copies.
 
-Contributed to a production-oriented restaurant automation platform,
-working across backend services, real-time systems, security and
-multi-tenant data architecture.
+- Engineered **frame-level dynamic watermarking** to generate unique fingerprints for piracy attribution.
+- Built the Linux-based processing pipeline for watermark embedding, extraction and signature mapping.
+- Structured the system as separable stages, extensible toward **async worker pools and event-driven ingestion**.
 
-#### ⚡ Real-Time Systems
-- Integrated **Customer, Kitchen, Staff and Admin** systems using Socket.IO.
-- Worked with real-time event flows across multiple application modules.
-- Contributed through PR-reviewed development workflows.
+`Python` `Computer Vision` `Async Workers` `Linux`
 
-#### 🏗️ Backend & Architecture
-- Configured **Docker Compose** for the application's microservices.
-- Designed MongoDB schemas across **8+ modules**, including orders,
-  sessions, tables, billing and inventory.
-- Implemented tenant-level data isolation across restaurant operations.
+### [FactorAI](https://github.com/Harshitaharshi20/FactorAi): Misinformation & Coordination Detection
+*HackSprint*
 
-#### 🔐 Security
-- Implemented **5 backend security controls**:
-  JWT rotation, RBAC middleware, rate limiting, Mongo sanitization
-  and QR-session lifecycle management.
-- Reviewed API validation and distributed service integrations
-  before deployment.
+Distributed AI system for analyzing content relationships and detecting coordinated behavior.
 
-#### 🤖 AI-Assisted Development
-- Used **GitHub Copilot and Claude** to draft API unit tests and
-  investigate Socket.IO issues.
-- Reviewed and validated generated code before merging.
+- Decoupled API orchestration (**Spring Boot**) from NLP inference (**async FastAPI**) into independent services.
+- Modeled content relationships in **Neo4j** for graph-based anomaly analysis instead of relational joins.
+- Built a React dashboard for analysis results and containerized all services with **Docker**.
 
-**Tech:** React.js · Node.js · MongoDB · Socket.IO · Docker · JWT · RBAC · Microservices
+`Java` `Spring Boot` `Python` `FastAPI` `Neo4j` `React` `Docker`
 
----
+### TaskVault: Secure Full-Stack Task Manager
 
-## 🛠️ Tech Stack
+- Built with **Next.js 14, NestJS, PostgreSQL and Prisma** across frontend, API and persistence layers.
+- Implemented dual authentication (**JWT + Supabase OAuth**).
+- Enforced **per-user data isolation at the API layer**, not just the UI.
+- Added unit and integration tests covering core behavior.
 
-### Languages
+`Next.js` `NestJS` `PostgreSQL` `Prisma` `JWT` `Supabase`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
-</p>
+### MedConnect: Healthcare Management Platform
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- Built a deployed multi-role platform with separate workflows for doctors, patients and admins.
+- Implemented **JWT authentication with RBAC**, plus appointment scheduling and a symptom checker.
+- Deployed to Vercel.
 
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,nestjs" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,neo4j,prisma" />
-</p>
-
-### DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
-</p>
+`Next.js` `NestJS` `MongoDB` `Docker` `JWT` `Vercel`
 
 ---
 
-## ⚙️ Engineering Focus
+## Technical Skills
 
-| Area | Focus |
+| Category | Technologies |
 |---|---|
-| **Backend Engineering** | REST APIs · Microservices · Async I/O · Event-Driven Architecture |
-| **Security** | JWT · OAuth 2.0 · RBAC · Rate Limiting · Session Management |
-| **Distributed Systems** | Microservices · Real-Time Systems · Concurrent Processing |
-| **AI Engineering** | NLP · Computer Vision · AI-Powered Applications |
-| **Data** | PostgreSQL · MongoDB · Neo4j · Graph Databases |
-| **Software Engineering** | DSA · Concurrency · System Design · Testing |
+| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **Backend** | Spring Boot, FastAPI, NestJS, Node.js, REST APIs, Socket.IO |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Databases** | PostgreSQL, MongoDB, Neo4j, Prisma |
+| **Security** | JWT, OAuth 2.0, RBAC, Rate Limiting, Session Management |
+| **Infrastructure** | Docker, Docker Compose, Linux, Git, GitHub |
+| **Fundamentals** | Data Structures & Algorithms, Concurrency, System Design, Testing |
 
 ---
 
-## 🧠 Problem Solving
+## Problem Solving
 
-### LeetCode — 400+ Problems Solved
-
-Consistent problem-solving practice focused on strengthening
-core software engineering fundamentals.
-
-**Focus Areas**
-
-- Data Structures & Algorithms
-- Graph Traversal
-- Algorithmic Problem Solving
-- Software Design Patterns
-
-[View LeetCode Profile](YOUR_LEETCODE_PROFILE_URL)
+**400+ problems solved on LeetCode**, focused on data structures, graph algorithms and algorithmic problem solving.
+[View LeetCode profile](https://leetcode.com/u/YOUR_USERNAME)
 
 ---
 
-## 🏆 Selected Achievements
+## Connect
 
-### Google Solution Challenge 2026
-
-**Traceory AI — Real-Time Video Piracy Detection**
-
-Submitted a prototype for the Google Solution Challenge 2026,
-focused on digital asset protection through trajectory-based
-dynamic watermarking and video analysis.
-
-**Focus:** Computer Vision · Digital Asset Protection ·
-Video Processing · Event-Driven Architecture
-
-[View Project](https://github.com/Harshitaharshi20/Traceory-AI)
-
-### HackSprint — FactorAI
-
-Built and presented FactorAI, an end-to-end distributed AI system
-combining Java, Python, JavaScript and Neo4j for misinformation
-and coordination analysis.
-
-**Focus:** Distributed Systems · NLP · Graph Databases ·
-Microservices
-
-[View Project](https://github.com/Harshitaharshi20/FactorAi)
+[LinkedIn](https://linkedin.com/in/d-harshita-dev) · [Email](mailto:d.harshita.dev@gmail.com)
