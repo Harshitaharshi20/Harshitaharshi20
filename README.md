@@ -97,7 +97,7 @@ Distributed AI system for analyzing content relationships and detecting coordina
 ## Problem Solving
 
 **400+ problems solved on LeetCode**, focused on data structures, graph algorithms and algorithmic problem solving.
-[View LeetCode profile](https://leetcode.com/u/YOUR_USERNAME)
+[View LeetCode profile](https://leetcode.com/)
 
 ---
 
