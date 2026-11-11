@@ -225,7 +225,7 @@ core software engineering fundamentals.
 - Algorithmic Problem Solving
 - Software Design Patterns
 
-[View LeetCode Profile](YOUR_LEETCODE_PROFILE_URL)
+[View LeetCode Profile](https://leetcode.com/u/HARSHITAHARSHI/)
 
 ---
 
