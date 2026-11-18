@@ -19,11 +19,6 @@ Building software. Exploring intelligent systems.
 
 <img src="assets/right-now.svg?v=1" width="100%" alt="Building, Learning and Reading"/>
 
-- **Building:** Backend-focused applications and scalable software systems.
-- **Learning:** Java, Data Structures and Algorithms, Python, FastAPI and System Design.
-- **Reading:** Software engineering, AI research, LLMs and emerging technologies.
-
----
 
 <!-- 03. TECHNICAL TOOLKIT -->
 
@@ -31,23 +26,13 @@ Building software. Exploring intelligent systems.
 
 <img src="assets/toolkit.svg?v=1" width="100%" alt="Animated technical toolkit"/>
 
-| Category | Technologies |
-|---|---|
-| Programming Languages | Java, Python, JavaScript, TypeScript |
-| Frontend | React.js, HTML5, CSS3, Tailwind CSS |
-| Backend | Node.js, Express.js, FastAPI |
-| Databases | MongoDB, PostgreSQL, SQL |
-| Tools | Git, GitHub, Docker, Postman |
-| AI Engineering | LLMs, RAG, AI Agents, Generative AI |
-
----
 
 ## About Me
 
 Hi, I'm **D Harshita**, a software engineer passionate about backend development, problem-solving and Applied AI.
 
 - Interested in building scalable and reliable software systems.
-- Solved **400+ problems on LeetCode**.
+- Solved **500+ problems on LeetCode**.
 - Full-stack development experience through my Graphura internship.
 - Exploring LLMs, Retrieval-Augmented Generation, AI Agents and Generative AI.
 - Focused on clean code, system design and continuous learning.
@@ -97,7 +82,7 @@ A full-stack task management application built with a modern frontend, backend a
 
 Consistently strengthening Data Structures, Algorithms and problem-solving skills.
 
-[LeetCode Profile](https://leetcode.com/)
+[LeetCode Profile](https://leetcode.com/u/HARSHITAHARSHI/)
 
 </div>
 
