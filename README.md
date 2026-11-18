@@ -138,5 +138,3 @@ Consistently strengthening Data Structures, Algorithms and problem-solving skill
 **Building today. Engineering tomorrow.**
 
 </div>
-
-
